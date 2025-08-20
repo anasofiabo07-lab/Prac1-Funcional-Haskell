@@ -16,7 +16,7 @@
 `errorPercent.hs`
 `dct.hs`         
 
-## Conclusiones ç
+## Conclusiones 
 Haskell es ideal para representar series matemáticas y trabajar con listas.
 Separar cada función en un archivo mejora la organización y reutilización del código.
 La precisión numérica depende del número de términos N.
