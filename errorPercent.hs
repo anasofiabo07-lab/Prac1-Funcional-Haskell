@@ -14,5 +14,5 @@ errorPercent :: Float -> Float -> Float
 errorPercent real approx = abs ((real - approx) / real) * 100
 
 -- Ejemplo:
--- errorPercent (exp 1) (expFunc 1 10)
--- Resultado: ≈ 0.00001 %
+errorPercent (exp 1) (expFunc 1 10)
+Resultado: ≈ 0.00001 %
